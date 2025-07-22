@@ -1,6 +1,4 @@
 #!/usr/bin/python3
 def print_last_digit(number):
-    if number is None:
-        return
-    print(number % 10, end="")
-    return
+    print(int(str(number)[len(str(number))-1]), end="")
+    return int(str(number)[len(str(number))-1])
