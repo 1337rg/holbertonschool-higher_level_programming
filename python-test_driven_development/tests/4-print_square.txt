@@ -3,7 +3,7 @@
 >>> say(1)
 #
 
->>> say('1337rg')
+>>> say('Keternooo')
 Traceback (most recent call last):
    ...
 TypeError: size must be an integer
