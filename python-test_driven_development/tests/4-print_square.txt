@@ -1,4 +1,4 @@
->>> say = __import__('4-print_square').print_square
+>>> square = __import__('4-print_square').print_square
 
 >>> say(1)
 #
