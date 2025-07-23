@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 
-""" My module Keterno """
+""" My module 1337rg """
 
 def print_square(size):
     """ Method for print square """
